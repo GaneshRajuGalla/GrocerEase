@@ -60,12 +60,6 @@ To get started with GrocerEase, follow these simple steps:
 
 To see GrocerEase in action, check out the demo video: [Demo Video Link](https://drive.google.com/drive/folders/1yeeI18U0cGxDnRgJj4TqvPDNmwPfmn5d?usp=sharing).
 
-## Support and Contact
-
-If you have any questions or need assistance, please contact ganeshrajugalla@gmail.com.
-
-I hope you enjoy using GrocerEase and find it a valuable addition to your grocery shopping routine. Happy shopping!
-
 ## App SnapShots
 | Launch | Welcome | Categories |
 | -- | -- | -- |
@@ -77,5 +71,11 @@ I hope you enjoy using GrocerEase and find it a valuable addition to your grocer
 | -- | -- | -- |
 | ![Card Details](GrocerEase/Media/CardDetails.png)  |  ![Stripe](GrocerEase/Media/Stripe.png) | ![Profile](GrocerEase/Media/Profile.png) 
 
+
+## Support and Contact
+
+If you have any questions or need assistance, please contact ganeshrajugalla@gmail.com.
+
+I hope you enjoy using GrocerEase and find it a valuable addition to your grocery shopping routine. Happy shopping!
 
 
