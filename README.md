@@ -33,7 +33,7 @@ GrocerEase is a standard grocery purchase app designed to make your grocery shop
 
 ### Persistence Data Using Latest SwiftData
 
-- All your data is locally stored using the latest SwiftData, which allows the app to work smoothly, even when the internet is unavailable. You can access your favorite items, cart contents, and more without needing an internet connection.
+- All your data is locally stored using the latest SwiftData, which allows the app to work smoothly, even when the internet is unavailable. You can access your Grocery items, cart contents, and more without needing an internet connection.
 - [SwiftData](https://developer.apple.com/xcode/swiftdata/)
 
 ### Architecture
