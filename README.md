@@ -15,10 +15,12 @@ GrocerEase is a standard grocery purchase app designed to make your grocery shop
 
 ### Stripe Integration
 - I've integrated Stripe for seamless and secure payment processing during checkout, ensuring a safe and reliable payment experience.
+- [Stripe](https://stripe.com/docs/libraries/ios)
 
 
 ### Persistence Data Using Latest SwiftData
 - All your data is locally stored using the latest SwiftData, which allows the app to work smoothly, even when the internet is unavailable. You can access your favorite items, cart contents, and more without needing an internet connection.
+- [SwiftData](https://developer.apple.com/xcode/swiftdata/)
 
 ## Tech Stack
 
@@ -49,16 +51,6 @@ To get started with GrocerEase, follow these simple steps:
 2. Open the project in Xcode.
 
 3. Build and run the app on your iOS device or simulator.
-
-## Stripe
-
-- For payment and checkout functionality, GrocerEase relies on a Stripe.
-- [Stripe](https://stripe.com/docs/libraries/ios)
-
-## Data Storage
-
-- All your data is stored locally on your device. In case the internet is unavailable, the app will load data from the local database. This ensures a seamless user experience even in offline mode.
-- [SwiftData](https://developer.apple.com/xcode/swiftdata/)
 
 ## Demo
 
