@@ -5,5 +5,4 @@
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------
 | ![SubCategories](GrocerEase/Media/SubCategory.png) | ![Item Detail](GrocerEase/Media/Detail.png) | ![Card Details](GrocerEase/Media/CardDetails.png) 
 | ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------
-| ![Payment](GrocerEase/Media/PaymentConfirmation.png) | ![Card Details](GrocerEase/Media/CardDetails.png) | ![Stripe](GrocerEase/Media/Stripe.png)
-| ------------------------------------------------------------ | ------------------------------------------------------------ | ---------------------------------------------------------| ![Profile](GrocerEase/Media/Profile.png) 
+| ![Payment](GrocerEase/Media/PaymentConfirmation.png) | ![Stripe](GrocerEase/Media/Stripe.png) | ![Profile](GrocerEase/Media/Profile.png) 
