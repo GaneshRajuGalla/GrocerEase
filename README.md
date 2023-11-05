@@ -54,11 +54,11 @@ To get started with GrocerEase, follow these simple steps:
 
 ## Demo
 
-To see GrocerEase in action, check out our demo video: [Demo Video Link](https://drive.google.com/drive/folders/1yeeI18U0cGxDnRgJj4TqvPDNmwPfmn5d?usp=sharing).
+To see GrocerEase in action, check out the demo video: [Demo Video Link](https://drive.google.com/drive/folders/1yeeI18U0cGxDnRgJj4TqvPDNmwPfmn5d?usp=sharing).
 
 ## Support and Contact
 
-If you have any questions or need assistance, please reach out to us at ganeshrajugalla@gmail.com.
+If you have any questions or need assistance, please contact ganeshrajugalla@gmail.com.
 
 I hope you enjoy using GrocerEase and find it a valuable addition to your grocery shopping routine. Happy shopping!
 
