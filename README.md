@@ -7,14 +7,15 @@ GrocerEase is a standard grocery purchase app designed to make your grocery shop
 
 ## Features Highlights
 
-### Stiffed Launching Screen
+### Animated Launching Screen
 - The app features a sleek and visually appealing launch screen that welcomes users with an elegant design when they start the app.
 
 ### Customized TabBar
 - GrocerEase offers a user-friendly customized TabBar that allows users to navigate through different categories of food items effortlessly.
 
 ### Stripe Integration
-- We've integrated Stripe for seamless and secure payment processing during checkout, ensuring a safe and reliable payment experience.
+- I've integrated Stripe for seamless and secure payment processing during checkout, ensuring a safe and reliable payment experience.
+
 
 ### Persistence Data Using Latest SwiftData
 - All your data is locally stored using the latest SwiftData, which allows the app to work smoothly, even when the internet is unavailable. You can access your favorite items, cart contents, and more without needing an internet connection.
@@ -51,11 +52,13 @@ To get started with GrocerEase, follow these simple steps:
 
 ## Stripe
 
-- For payment and checkout functionality, GrocerEase relies on a Stripe. 
+- For payment and checkout functionality, GrocerEase relies on a Stripe.
+- [Stripe](https://stripe.com/docs/libraries/ios)
 
 ## Data Storage
 
 - All your data is stored locally on your device. In case the internet is unavailable, the app will load data from the local database. This ensures a seamless user experience even in offline mode.
+- [SwiftData](https://developer.apple.com/xcode/swiftdata/)
 
 ## Demo
 
@@ -66,7 +69,6 @@ To see GrocerEase in action, check out our demo video: [Demo Video Link](https:/
 If you have any questions or need assistance, please reach out to us at ganeshrajugalla@gmail.com.
 
 I hope you enjoy using GrocerEase and find it a valuable addition to your grocery shopping routine. Happy shopping!
-
 
 ## App SnapShots
 | Launch | Welcome | Categories |
