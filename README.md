@@ -5,23 +5,6 @@
 
 GrocerEase is a standard grocery purchase app designed to make your grocery shopping experience easier and more convenient. This README provides an overview of the project's features and the technologies used to build it.
 
-## Features Highlights
-
-### Animated Launching Screen
-- The app features a sleek and visually appealing launch screen that welcomes users with an elegant design when they start the app.
-
-### Customized TabBar
-- GrocerEase offers a user-friendly customized TabBar that allows users to navigate through different categories of food items effortlessly.
-
-### Stripe Integration
-- I've integrated Stripe for seamless and secure payment processing during checkout, ensuring a safe and reliable payment experience.
-- [Stripe](https://stripe.com/docs/libraries/ios)
-
-
-### Persistence Data Using Latest SwiftData
-- All your data is locally stored using the latest SwiftData, which allows the app to work smoothly, even when the internet is unavailable. You can access your favorite items, cart contents, and more without needing an internet connection.
-- [SwiftData](https://developer.apple.com/xcode/swiftdata/)
-
 ## Tech Stack
 
 - Xcode 15.1
@@ -32,11 +15,32 @@ GrocerEase is a standard grocery purchase app designed to make your grocery shop
 - Swift Data
 - Stripe ThirdParty
 
-## Architecture
+- ## Features Highlights
+
+### Animated Launching Screen
+
+- The app features a sleek and visually appealing launch screen that welcomes users with an elegant design when they start the app.
+
+### Customized TabBar
+
+- GrocerEase offers a user-friendly customized TabBar that allows users to navigate through different categories of food items effortlessly.
+
+### Stripe Integration
+
+- I've integrated Stripe for seamless and secure payment processing during checkout, ensuring a safe and reliable payment experience.
+- [Stripe](https://stripe.com/docs/libraries/ios)
+
+
+### Persistence Data Using Latest SwiftData
+
+- All your data is locally stored using the latest SwiftData, which allows the app to work smoothly, even when the internet is unavailable. You can access your favorite items, cart contents, and more without needing an internet connection.
+- [SwiftData](https://developer.apple.com/xcode/swiftdata/)
+
+### Architecture
 
 - GrocerEase follows the MVVM (Model-View-ViewModel) architecture, ensuring a clean and maintainable codebase.
 
-## Customizations
+### Customizations
 
 - Custom URLSession Network Layer: We've implemented a custom URLSession network layer inspired by Moya for efficient and clean network requests.
 
