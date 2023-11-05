@@ -42,8 +42,8 @@ GrocerEase is a standard grocery purchase app designed to make your grocery shop
 
 ### Customizations
 
-- Custom URLSession Network Layer: I've implemented a custom URLSession network layer inspired by Moya for efficient and clean network requests.
-
+- I've implemented a modern async/await-based URLSession APIClient inspired by Moya for efficient and clean network requests using URLSession.
+  
 - Custom NavigationStack: The app features a custom navigation stack for enhanced navigation and user experience.
 
 ## Getting Started
