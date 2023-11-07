@@ -72,6 +72,20 @@ To see GrocerEase in action, check out the demo video: [Demo Video Link](https:/
 | ![Card Details](GrocerEase/Media/CardDetails.png)  |  ![Stripe](GrocerEase/Media/Stripe.png) | ![Profile](GrocerEase/Media/Profile.png) 
 
 
+## App SnapShots
+
+| Launch | Welcome | Categories |
+| -- | -- | -- |
+| <img src="GrocerEase/Media/Launch.png" width="200"> | <img src="GrocerEase/Media/Welcome.png" width="200"> | <img src="GrocerEase/Media/Categories.png" width="200"> 
+| SubCategories | Item Detail | Cart |
+| -- | -- | -- |
+| <img src="GrocerEase/Media/SubCategory.png" width="200"> | <img src="GrocerEase/Media/Detail.png" width="200"> | <img src="GrocerEase/Media/PaymentConfirmation.png" width="200">
+| Card Details | Stripe | Profile |
+| -- | -- | -- |
+| <img src="GrocerEase/Media/CardDetails.png" width="200">  |  <img src="GrocerEase/Media/Stripe.png" width="200"> | <img src="GrocerEase/Media/Profile.png" width="200">
+
+
+
 ## Support and Contact
 
 If you have any questions or need assistance, please contact ganeshrajugalla@gmail.com.
