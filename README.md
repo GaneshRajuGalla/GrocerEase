@@ -61,18 +61,6 @@ To get started with GrocerEase, follow these simple steps:
 To see GrocerEase in action, check out the demo video: [Demo Video Link](https://drive.google.com/drive/folders/1yeeI18U0cGxDnRgJj4TqvPDNmwPfmn5d?usp=sharing).
 
 ## App SnapShots
-| Launch | Welcome | Categories |
-| -- | -- | -- |
-| ![Launch](GrocerEase/Media/Launch.png) | ![Welcome](GrocerEase/Media/Welcome.png) | ![Categories](GrocerEase/Media/Categories.png) 
-| SubCategories | Item Detail | Cart |
-| -- | -- | -- |
-| ![SubCategories](GrocerEase/Media/SubCategory.png) | ![Item Detail](GrocerEase/Media/Detail.png) | ![Payment](GrocerEase/Media/PaymentConfirmation.png)
-| Card Details | Stripe | Profile |
-| -- | -- | -- |
-| ![Card Details](GrocerEase/Media/CardDetails.png)  |  ![Stripe](GrocerEase/Media/Stripe.png) | ![Profile](GrocerEase/Media/Profile.png) 
-
-
-## App SnapShots
 
 | Launch | Welcome | Categories |
 | -- | -- | -- |
@@ -83,7 +71,6 @@ To see GrocerEase in action, check out the demo video: [Demo Video Link](https:/
 | Card Details | Stripe | Profile |
 | -- | -- | -- |
 | <img src="GrocerEase/Media/CardDetails.png" width="200">  |  <img src="GrocerEase/Media/Stripe.png" width="200"> | <img src="GrocerEase/Media/Profile.png" width="200">
-
 
 
 ## Support and Contact
