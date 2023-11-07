@@ -1,6 +1,18 @@
 
 # GrocerEase
 
+## App SnapShots
+
+| Launch | Welcome | Categories |
+| -- | -- | -- |
+| <img src="GrocerEase/Media/Launch.png" width="200"> | <img src="GrocerEase/Media/Welcome.png" width="200"> | <img src="GrocerEase/Media/Categories.png" width="200"> 
+| SubCategories | Item Detail | Cart |
+| -- | -- | -- |
+| <img src="GrocerEase/Media/SubCategory.png" width="200"> | <img src="GrocerEase/Media/Detail.png" width="200"> | <img src="GrocerEase/Media/PaymentConfirmation.png" width="200">
+| Card Details | Stripe | Profile |
+| -- | -- | -- |
+| <img src="GrocerEase/Media/CardDetails.png" width="200">  |  <img src="GrocerEase/Media/Stripe.png" width="200"> | <img src="GrocerEase/Media/Profile.png" width="200">
+
 ## Overview
 
 GrocerEase is a standard grocery purchase app designed to make your grocery shopping experience easier and more convenient. This README provides an overview of the project's features and the technologies used to build it.
@@ -59,19 +71,6 @@ To get started with GrocerEase, follow these simple steps:
 ## Demo
 
 To see GrocerEase in action, check out the demo video: [Demo Video Link](https://drive.google.com/drive/folders/1yeeI18U0cGxDnRgJj4TqvPDNmwPfmn5d?usp=sharing).
-
-## App SnapShots
-
-| Launch | Welcome | Categories |
-| -- | -- | -- |
-| <img src="GrocerEase/Media/Launch.png" width="200"> | <img src="GrocerEase/Media/Welcome.png" width="200"> | <img src="GrocerEase/Media/Categories.png" width="200"> 
-| SubCategories | Item Detail | Cart |
-| -- | -- | -- |
-| <img src="GrocerEase/Media/SubCategory.png" width="200"> | <img src="GrocerEase/Media/Detail.png" width="200"> | <img src="GrocerEase/Media/PaymentConfirmation.png" width="200">
-| Card Details | Stripe | Profile |
-| -- | -- | -- |
-| <img src="GrocerEase/Media/CardDetails.png" width="200">  |  <img src="GrocerEase/Media/Stripe.png" width="200"> | <img src="GrocerEase/Media/Profile.png" width="200">
-
 
 ## Support and Contact
 
